@@ -1,17 +1,14 @@
 # DeathNotes_FrontEnd
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
+## Project requirements
+1. Node.js version 18.3 or higher
+### Project Setup
+1. Clone the project from Git
+   ```sh
+git clone https://github.com/Harish1710Msc/deathnotes_frontend.git
+cd deathnotes_frontend
+```
+2. Install NPM
 ```sh
 npm install
 ```
